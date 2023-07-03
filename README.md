@@ -5,6 +5,8 @@ REGISTRATION NUMBER - 20BCI7037
 
 NAME - NIRANJAN S NAIR
 
+EMAIL-ID - niranjan.20bci7037@vitap.ac.in
+
 COLLEGE - VIT AP
 
 MODEL - https://drive.google.com/file/d/1x7uPOCuEgVY7ssPmsT9qzUWCLoPkswCt/view?usp=sharing
