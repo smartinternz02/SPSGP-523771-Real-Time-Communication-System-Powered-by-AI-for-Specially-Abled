@@ -1,9 +1,14 @@
 # SPSGP-523771-Real-Time-Communication-System-Powered-by-AI-for-Specially-Abled
 Real-Time Communication System Powered by AI for Specially Abled
+
 REGISTRATION NUMBER - 20BCI7037
+
 NAME - NIRANJAN S NAIR
+
 COLLEGE - VIT AP
+
 MODEL - https://drive.google.com/file/d/1x7uPOCuEgVY7ssPmsT9qzUWCLoPkswCt/view?usp=sharing
+
 VIDEO DEMO - https://drive.google.com/file/d/1ztnpUuxEevEqsn5t9NzyP6mFdYCllPnS/view?usp=sharing
 
 PROJECT DESCRIPTION
